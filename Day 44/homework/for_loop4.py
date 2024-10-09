@@ -1,6 +1,5 @@
 sum = 0
-num = input("enter rendom numbers: ")
-for i in range(int(num)):
-
+num = int(input("enter rendom numbers: "))
+for i in range(num):
     sum += i
 print(sum)

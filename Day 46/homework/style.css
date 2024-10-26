@@ -1,0 +1,8 @@
+div{
+    background-color: aquamarine;
+    height: 500px;
+    width: 200px;
+    border: 7px solid aquamarine;
+    float: left;
+    margin: 50px;
+}

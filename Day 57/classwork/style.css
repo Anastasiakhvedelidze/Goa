@@ -1,13 +1,13 @@
 div {
     width: 350px;
     height: 350px;
-    background-color: blueviolet;
+    background-color: rgb(251, 255, 0);
     font-size: 3em;
     font-family: monospace;
 
     transform: 5s;
 }   
 
- div.hover{
-    transform: hover(360px);
+div.hover {
+    transform: hover(70deg);
 }
